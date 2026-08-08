@@ -9,5 +9,4 @@ class Solution:
                 count+=1
             if count==3 :
                 return nums[i]
-            if i==0:
-                return nums[-1]
+        return nums[-1]

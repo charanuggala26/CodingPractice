@@ -15,10 +15,12 @@
 | [0238-product-of-array-except-self](https://github.com/charanuggala26/CodingPractice/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/charanuggala26/CodingPractice/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/charanuggala26/CodingPractice/tree/master/0905-sort-array-by-parity) |
+| [1480-running-sum-of-1d-array](https://github.com/charanuggala26/CodingPractice/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/charanuggala26/CodingPractice/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/charanuggala26/CodingPractice/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |

@@ -14,12 +14,14 @@
 | [0169-majority-element](https://github.com/charanuggala26/CodingPractice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/charanuggala26/CodingPractice/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/charanuggala26/CodingPractice/tree/master/0414-third-maximum-number) |
+| [0724-find-pivot-index](https://github.com/charanuggala26/CodingPractice/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/charanuggala26/CodingPractice/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/charanuggala26/CodingPractice/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/charanuggala26/CodingPractice/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/charanuggala26/CodingPractice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/charanuggala26/CodingPractice/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |

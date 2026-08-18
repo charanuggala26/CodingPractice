@@ -10,6 +10,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/charanuggala26/CodingPractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/charanuggala26/CodingPractice/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/charanuggala26/CodingPractice/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/charanuggala26/CodingPractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/charanuggala26/CodingPractice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/charanuggala26/CodingPractice/tree/master/0238-product-of-array-except-self) |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/charanuggala26/CodingPractice/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/charanuggala26/CodingPractice/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/charanuggala26/CodingPractice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

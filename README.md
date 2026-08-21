@@ -10,6 +10,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/charanuggala26/CodingPractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/charanuggala26/CodingPractice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/charanuggala26/CodingPractice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/charanuggala26/CodingPractice/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/charanuggala26/CodingPractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/charanuggala26/CodingPractice/tree/master/0169-majority-element) |
@@ -50,6 +51,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/charanuggala26/CodingPractice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/charanuggala26/CodingPractice/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/charanuggala26/CodingPractice/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/charanuggala26/CodingPractice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
